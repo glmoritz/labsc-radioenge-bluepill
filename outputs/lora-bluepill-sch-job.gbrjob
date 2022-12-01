@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "6.0.2-378541a8eb~116~ubuntu20.04.1"
+      "Version": "6.0.9-8da3e8f707~116~ubuntu22.04.1"
     },
-    "CreationDate": "2022-11-16T14:33:25-03:00"
+    "CreationDate": "2022-12-01T16:18:42-03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -46,6 +46,11 @@
     {
       "Path": "lora-bluepill-sch-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "lora-bluepill-sch-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
