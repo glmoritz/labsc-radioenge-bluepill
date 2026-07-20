@@ -1,0 +1,12 @@
+# KiCad lock files
+*.lck
+~*.lck
+
+# KiCad auto-backups
+*-backups/
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# KiCad build/output cruft
+fp-info-cache
