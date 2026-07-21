@@ -10786,7 +10786,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LabSC:ESP32C6-Minimal"
 			(at 35.56 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -15817,7 +15817,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8f084353-6d16-48fd-8a82-75ee55cf176e")
 		(property "Reference" "M2"
 			(at 218.0433 95.25 0)
@@ -15840,9 +15839,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 204.47 97.79 0)
-			(hide yes)
+		(property "Footprint" "LabSC:Waveshare-LR1121"
+			(at 197.866 95.758 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20242,7 +20240,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LabSC:A1205S-2W"
 			(at 364.49 31.75 0)
 			(hide yes)
 			(show_name no)

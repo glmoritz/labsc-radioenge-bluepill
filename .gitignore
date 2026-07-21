@@ -10,3 +10,6 @@
 
 # KiCad build/output cruft
 fp-info-cache
+
+# Editor local history
+.history/
