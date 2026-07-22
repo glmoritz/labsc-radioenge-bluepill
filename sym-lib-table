@@ -9,4 +9,5 @@
 	(lib (name "Mechanical") (type "KiCad") (uri "${KIPRJMOD}/symbols/Mechanical.kicad_sym") (options "") (descr "Vendored KiCad standard symbols (used subset)"))
 	(lib (name "power") (type "KiCad") (uri "${KIPRJMOD}/symbols/power.kicad_sym") (options "") (descr "Vendored KiCad standard symbols (used subset)"))
 	(lib (name "Sensor_Temperature") (type "KiCad") (uri "${KIPRJMOD}/symbols/Sensor_Temperature.kicad_sym") (options "") (descr "Vendored KiCad standard symbols (used subset)"))
+	(lib (name "YAAJ_WeAct_BlackPill_Part_Like") (type "KiCad") (uri "${KIPRJMOD}/Kicad-STM32/Symbols/YAAJ_WeAct_BlackPill_Part_Like.kicad_sym") (options "") (descr ""))
 )

@@ -1,6 +1,7 @@
 (fp_lib_table
 	(version 7)
 	(lib (name "LabSC") (type "KiCad") (uri "${KIPRJMOD}/footprints/LabSC.pretty") (options "") (descr "Project custom footprints (LabSC)"))
+	(lib (name "KF301-2P") (type "KiCad") (uri "${KIPRJMOD}/footprints/KF301-2P.pretty") (options "") (descr "Handson KF301-2P screw terminal, vendored from labsc_gatekeeper"))
 	(lib (name "Project Footprints") (type "KiCad") (uri "${KIPRJMOD}/footprints/Project_Footprints.pretty") (options "") (descr "Project graphic footprints (logo)"))
 	(lib (name "Footprints") (type "KiCad") (uri "${KIPRJMOD}/footprints/Footprints.pretty") (options "") (descr "STM32 module footprints (YAAJ BluePill)"))
 	(lib (name "Capacitor_THT") (type "KiCad") (uri "${KIPRJMOD}/footprints/Capacitor_THT.pretty") (options "") (descr "Vendored KiCad standard footprints (used subset)"))
