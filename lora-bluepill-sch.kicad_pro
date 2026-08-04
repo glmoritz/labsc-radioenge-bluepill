@@ -155,7 +155,7 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.2,
+        "min_clearance": 0.15,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.0,
         "min_groove_width": 0.0,
@@ -165,12 +165,12 @@
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.8,
+        "min_text_height": 1.0,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.2,
+        "min_track_width": 0.15,
         "min_via_annular_width": 0.13,
-        "min_via_diameter": 0.7,
+        "min_via_diameter": 0.6,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
         "solder_mask_to_copper_clearance": 0.0,
@@ -222,8 +222,9 @@
       ],
       "track_widths": [
         0.0,
-        0.3,
-        0.5
+        0.2,
+        0.5,
+        1.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -263,6 +264,10 @@
         {
           "diameter": 1.1,
           "drill": 0.5
+        },
+        {
+          "diameter": 1.6,
+          "drill": 1.0
         }
       ],
       "zones_allow_external_fillets": false,
@@ -699,7 +704,7 @@
         "uuid": "26a29e7d-96da-45ea-a1f2-4fa41477b465"
       }
     ],
-    "used_designators": "H1-4,FID1,J1-11,R1-17,D1-8,C1-12,M1-3,#PWR1-69,#PWR105-108,Q1,U1-10",
+    "used_designators": "H1-4,FID1,J1-11,R1-18,D1-10,C1-16,M1-3,#PWR1-72,#PWR105-108,Q1,U1-10",
     "variants": []
   },
   "sheets": [
